@@ -1,0 +1,11 @@
+.layout {
+    min-height: 100vh;
+}
+.header {
+    flex: 0 0 auto;
+}
+.content {
+    box-sizing: border-box;
+    padding: 20px;
+    float: 1 1 100%;
+}
